@@ -15,15 +15,13 @@
 ## Program:
 ```
 #include<stdio.h> 
-int main(){ 
-char p1; 
-scanf("%c", &p1); 
-if(p1=='P') 
+int main() 
 { 
-printf("Present"); 
-} 
+float a =5.800000; 
+printf ("%.1f",a); 
 return 0; 
-} 
+ 
+}
 ```
 
 ## Output:
