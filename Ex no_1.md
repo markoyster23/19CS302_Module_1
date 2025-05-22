@@ -3,14 +3,11 @@
 ## AIM: To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-1. 1. Start. 
-2. Declare a variable value of type char. 
-3. Prompt the user to enter a value. 
-4. Read the value using scanf. 
-5. Check whether the attendance is PRESENT. 
-6. If true, print "Present". 
-7. If false, print " ". 
-8. End.  
+. Start 
+2. Declare a variable value of type int 
+3. Initialize value with value 5.8. 
+4. Print the value of value using printf. 
+5. End .  
 
 ## Program:
 ```
