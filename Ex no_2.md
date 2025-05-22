@@ -21,7 +21,8 @@ if(p1=='P')
 printf("Present"); 
 } 
 return 0; 
-} 
+}
+
 OUTPUT: 
 Present
  
