@@ -24,8 +24,6 @@ return 0;
 ## Output:
 5.8
  
-RESULT:
-Thus, the program is executed and verified successfully.
 
 
 
